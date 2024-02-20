@@ -15,6 +15,6 @@
 </div>
 <br>
 
-![Snake animation](https://github.com/pedroaaguarnieri/pedroaaguarnieri/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pedroaaguarnieri/pedroaaguarnieri/blob/output/github-contribution-grid-snake.gif)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
