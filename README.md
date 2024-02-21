@@ -39,7 +39,7 @@
   <img align="right" height="180em" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaaguarnieri&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
-<br><br>
+<br>
 
 <div  align="center"> 
   <h1 align="center"><em>In learning</em></h1>
@@ -48,7 +48,7 @@
   <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-<br><br>
+<br>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
