@@ -34,7 +34,7 @@
 
 <br><br>
 
-<div>
+<div  align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=pedroaaguarnieri&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="366">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaaguarnieri&layout=compact&langs_count=8&theme=dark" width="400">
 </div>
