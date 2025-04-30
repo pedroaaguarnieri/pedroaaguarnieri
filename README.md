@@ -29,13 +29,6 @@ Com o objetivo de me tornar um profissional Engenheiro de Dados, estou dedicando
 
 Sou um profissional em busca da excelência na área de dados, com uma base sólida em tecnologia e agronomia. Minha jornada acadêmica em Engenharia de Software e Engenharia Agronômica, aliada à experiência prática com diversas tecnologias de dados e gestão agrícola, me impulsiona rumo ao meu objetivo de me consolidar como Engenheiro de Dados. Acredito no poder dos dados para transformar negócios e estou sempre em busca de novos desafios e aprendizados.
 
-
-## Estatísticas do GitHub (Opcional)
-
-Se desejar, adicione um cartão com suas estatísticas do GitHub:
-
-[![pedroaaguarnieri](https://github-readme-stats.vercel.app/api?username=pedroaaguarnieri&show_icons=true&theme=material-palenight)](https://github.com/pedroaaguarnieri)
-
 ---
 
 Obrigado pela visita! 😊
