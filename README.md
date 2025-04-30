@@ -11,8 +11,8 @@
 ## 🎓 Formação Acadêmica
 
 * **Técnico em Agropecuária:** Formado
-* **Acadêmico em Engenharia Agronômica:** Cursando
-* **Acadêmico em Engenharia de Software:** Cursando
+* **Engenharia Agronômica:** Cursando
+* **Engenharia de Software:** Cursando
 * **Objetivo:** Engenheiro de Dados
 
 ## 🌱 Aprendizado Contínuo
