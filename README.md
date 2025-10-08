@@ -3,7 +3,7 @@
 ## 🛠️ Habilidades e Tecnologias
 
 * **Bancos de Dados:** SQL Server, PostgreSQL, MySQL, SQLite
-* **Linguagens de Programação:** Python
+* **Linguagens de Programação:** Python, JavaScript
 * **Business Intelligence e Análise de Dados:** Power BI, Metabase, SmartView
 * **Automação e Integração:** N8N, Apache Hop, Airbyte
 * **Gestão Agrícola:** TOTVS Agro Multicultivos e TOTVS Agro Fitossanidade
