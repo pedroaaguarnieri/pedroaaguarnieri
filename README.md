@@ -2,9 +2,9 @@
 
 ## 🛠️ Habilidades e Tecnologias
 
-* **Bancos de Dados:** SQL Server, PostgreSQL, MySQL, SQLite
-* **Linguagens de Programação:** Python, JavaScript
-* **Business Intelligence e Análise de Dados:** Power BI, Metabase, SmartView
+* **Bancos de Dados:** SQL Server, PostgreSQL, MySQL e SQLite
+* **Linguagens de Programação:** Python e JavaScript
+* **Business Intelligence e Análise de Dados:** Power BI, Metabase e SmartView
 * **Automação e Integração:** N8N, Apache Hop, Airbyte
 * **Gestão Agrícola:** TOTVS Agro Multicultivos e TOTVS Agro Fitossanidade
 
@@ -17,7 +17,7 @@
 
 ## 🌱 Aprendizado Contínuo
 
-Com o objetivo de me tornar um profissional Engenheiro de Dados, estou dedicando meus estudos e projetos à análise, modelagem, infraestrutura de dados e explorando as mais recentes ferramentas e técnicas da área.
+Tenho direcionado meus estudos e projetos para o desenvolvimento e integração de sistemas aplicados ao agronegócio, buscando unir tecnologia e campo de forma prática e eficiente. Estou constantemente explorando soluções que otimizem gestão agrícola, automação de processos, análise de dados operacionais e integração entre sistemas corporativos e plataformas de campo, com o objetivo de aumentar a produtividade e a sustentabilidade nas operações agrícolas.
 
 ## 🤝 Conecte-se Comigo
 
@@ -26,7 +26,7 @@ Com o objetivo de me tornar um profissional Engenheiro de Dados, estou dedicando
 
 ## ✨ Sobre Mim
 
-Sou um profissional em busca da excelência na área de dados, com uma base sólida em tecnologia e agronomia. Minha jornada acadêmica em Engenharia de Software e Engenharia Agronômica, aliada à experiência prática com diversas tecnologias de dados e gestão agrícola, me impulsiona rumo ao meu objetivo de me consolidar como Engenheiro de Dados. Acredito no poder dos dados para transformar negócios e estou sempre em busca de novos desafios e aprendizados.
+Sou um profissional apaixonado por tecnologia e pelo agronegócio, com experiência na gestão de sistemas agrícolas e em ferramentas voltadas para integração, automação e análise de dados do setor rural. Minha formação técnica e acadêmica em Agropecuária, Engenharia Agronômica e Engenharia de Software me permite atuar de forma completa — entendendo tanto as demandas do campo quanto as soluções tecnológicas que podem atendê-las. Busco contribuir para a transformação digital do agronegócio, criando soluções que conectem gestão, eficiência e inovação no dia a dia das operações agrícolas.
 
 ---
 
