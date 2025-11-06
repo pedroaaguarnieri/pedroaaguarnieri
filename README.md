@@ -13,7 +13,6 @@
 * **Técnico em Agropecuária:** Formado
 * **Engenharia Agronômica:** Cursando
 * **Engenharia de Software:** Cursando
-* **Objetivo:** Engenheiro de Dados
 
 ## 🌱 Aprendizado Contínuo
 
