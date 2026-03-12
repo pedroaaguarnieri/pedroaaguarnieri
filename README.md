@@ -30,9 +30,9 @@ Sou um profissional apaixonado por tecnologia e pelo agronegócio, com experiên
 ## 🐍 Meu Jogo da Cobrinha
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroaguarnieri/pedroaaguarnieri/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroaguarnieri/pedroaaguarnieri/output/github-contribution-grid-snake.svg">
-    <img alt="Github snake game" src="https://raw.githubusercontent.com/pedroaguarnieri/pedroaguarnieri/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroaaguarnieri/pedroaaguarnieri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroaaguarnieri/pedroaaguarnieri/output/github-contribution-grid-snake.svg">
+    <img alt="Github snake game" src="https://raw.githubusercontent.com/pedroaaguarnieri/pedroaaguarnieri/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
