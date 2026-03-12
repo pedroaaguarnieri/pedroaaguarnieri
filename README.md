@@ -27,7 +27,7 @@ Tenho direcionado meus estudos e projetos para o desenvolvimento e integração 
 
 Sou um profissional apaixonado por tecnologia e pelo agronegócio, com experiência na gestão de sistemas agrícolas e em ferramentas voltadas para integração, automação e análise de dados do setor rural. Minha formação técnica e acadêmica em Agropecuária, Engenharia Agronômica e Engenharia de Software me permite atuar de forma completa — entendendo tanto as demandas do campo quanto as soluções tecnológicas que podem atendê-las. Busco contribuir para a transformação digital do agronegócio, criando soluções que conectem gestão, eficiência e inovação no dia a dia das operações agrícolas.
 
-## 🐍 Meu Jogo da Cobrinha
+## 🐍 Meus Commits
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroaaguarnieri/pedroaaguarnieri/output/github-contribution-grid-snake-dark.svg">
