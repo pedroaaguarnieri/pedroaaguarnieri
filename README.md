@@ -6,7 +6,7 @@
 * **Linguagens de Programação:** Python e JavaScript
 * **Business Intelligence e Análise de Dados:** Power BI, Metabase e SmartView
 * **Automação e Integração:** N8N, Apache Hop, Airbyte
-* **Gestão Agrícola:** TOTVS Agro Multicultivos e TOTVS Agro Fitossanidade
+* **Gestão Agrícola:** TOTVS Agro Multicultivos e TOTVS Meu Fitossanitário
 
 ## 🎓 Formação Acadêmica
 
