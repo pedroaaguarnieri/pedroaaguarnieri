@@ -1,4 +1,4 @@
-<h1 align="center"><code>pedroguarnieri.json</code></h1>
+<h1 align="center">Pedro Guarniéri</h1>
 
 <p align="center">
   <b>Technology & Agribusiness</b><br>
