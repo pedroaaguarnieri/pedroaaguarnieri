@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  📍 Paranavaí, Brazil &nbsp;·&nbsp; 🎓 Agricultural Engineering &amp; Software Engineering
+  📍 Paranavaí, Brazil &nbsp;·&nbsp; 🎓 Agronomy &amp; Software Engineering
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## About
 
-I work where the field meets the code. I have a technical degree in Agriculture and I'm completing Agricultural Engineering and Software Engineering, which lets me understand what the field actually needs and design the solution for it: from the system that organizes the operation to the data that arrives clean on the decision-maker's dashboard.
+I work where the field meets the code. I have a technical degree in Agriculture and I'm completing Agronomy and Software Engineering, which lets me understand what the field actually needs and design the solution for it: from the system that organizes the operation to the data that arrives clean on the decision-maker's dashboard.
 
 Day to day, I manage agricultural systems and build the bridges between them: integrations, data pipelines and automations that take manual work out of the way and give confidence to the number that reaches the decision-maker.
 
@@ -74,7 +74,7 @@ Day to day, I manage agricultural systems and build the bridges between them: in
 
 ### 🍊 [Degree-day model for *Brevipalpus yothersi*](https://github.com/pedroaaguarnieri/spb-leprose-citros)
 
-Open-source predictive system that supports management decisions for the mite that transmits citrus leprosis, timing sprays by the pest's physiological time instead of a fixed calendar. My undergraduate thesis in Agricultural Engineering.
+Open-source predictive system that supports management decisions for the mite that transmits citrus leprosis, timing sprays by the pest's physiological time instead of a fixed calendar. My undergraduate thesis in Agronomy.
 
 `Python` &nbsp; `Agronomy` &nbsp; `Modeling` &nbsp; [view repository →](https://github.com/pedroaaguarnieri/spb-leprose-citros)
 
@@ -83,7 +83,7 @@ Open-source predictive system that supports management decisions for the mite th
 | Program | Status |
 |---|---|
 | Technical degree in Agriculture | Completed |
-| Agricultural Engineering | In progress |
+| Agronomy | In progress |
 | Software Engineering | In progress |
 
 ## Activity
