@@ -1,12 +1,12 @@
-<h1 align="center">Pedro Guarniéri</h1>
+<h1 align="center"><code>pedroguarnieri.json</code></h1>
 
 <p align="center">
-  <b>Tecnologia e agronegócio</b><br>
-  Sistemas agrícolas, integração de dados e automação
+  <b>Technology & Agribusiness</b><br>
+  Agricultural systems, data integration and automation
 </p>
 
 <p align="center">
-  📍 Paranavaí, PR &nbsp;·&nbsp; 🎓 Engenharia Agronômica e Engenharia de Software
+  📍 Paranavaí, Brazil &nbsp;·&nbsp; 🎓 Agricultural Engineering & Software Engineering
 </p>
 
 <p align="center">
@@ -14,49 +14,49 @@
 </p>
 
 <p align="center">
-  <a href="#sobre">Sobre</a> &nbsp;·&nbsp;
-  <a href="#o-que-eu-construo">O que eu construo</a> &nbsp;·&nbsp;
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#what-i-build">What I build</a> &nbsp;·&nbsp;
   <a href="#stack">Stack</a> &nbsp;·&nbsp;
-  <a href="#projeto-em-destaque">Projeto em destaque</a> &nbsp;·&nbsp;
-  <a href="#formação">Formação</a>
+  <a href="#featured-project">Featured project</a> &nbsp;·&nbsp;
+  <a href="#education">Education</a>
 </p>
 
 ---
 
-## Sobre
+## About
 
-Trabalho onde o campo encontra o código. Tenho formação técnica em Agropecuária e curso Engenharia Agronômica e Engenharia de Software, o que me permite entender a demanda da lavoura e desenhar a solução que a atende: do sistema que organiza a operação ao dado que chega limpo no painel de decisão.
+I work where the field meets the code. I have a technical degree in Agriculture and I'm completing Agricultural Engineering and Software Engineering, which lets me understand what the field actually needs and design the solution for it: from the system that organizes the operation to the data that reaches the decision-maker's dashboard clean.
 
-Meu dia a dia é gerir sistemas agrícolas e construir as pontes entre eles: integrações, pipelines de dados e automações que tiram trabalho manual do caminho e dão confiança ao número que chega para quem decide.
+Day to day, I manage agricultural systems and build the bridges between them: integrations, data pipelines and automations that take manual work out of the way and give confidence to the number that reaches the decision-maker.
 
-## O que eu construo
+## What I build
 
-| Área | O que eu faço |
+| Area | What I do |
 |---|---|
-| **Integração entre sistemas** | Sincronização bidirecional entre ERPs e plataformas de campo, com controle de identidade entre os cadastros, fila de erros e histórico de transações |
-| **Engenharia de dados** | Data warehouse em arquitetura medalhão (bronze, silver e gold), com orquestração, validação e reprocessamento, reunindo dezenas de fontes heterogêneas |
-| **Telemetria e IoT** | Gateways que recebem pacotes TCP/UDP de rastreadores e balanças, guardam o dado bruto e o distribuem para integrações |
-| **Automação e relatórios** | Geração automática de relatórios operacionais em PDF a partir de dados de pesagem, telemetria e fotos |
-| **Agronomia aplicada a dados** | Modelagem de desenvolvimento de pragas, monitoramento fitossanitário com dados geoespaciais e apoio à decisão de manejo |
-| **Visão computacional e web** | Reconhecimento de placas (LPR) integrado a câmeras e controladores de acesso, e plataformas web de pedidos com área administrativa |
-| **IA no fluxo de trabalho** | Skills e rotinas para agentes de código, e uma base de conhecimento pessoal organizada por IA |
-| **ERP agrícola** | Desenho e desenvolvimento de um ERP para operações agrícolas: safra, insumos, apontamento operacional, custos e finanças, com permissões por grupo, trilha de auditoria e exclusão lógica |
-| **APIs e backend** | APIs assíncronas com autenticação JWT, validação de entrada e saída por schemas, controle de acesso por módulo e ação, e cache e limitação de requisições em Redis |
-| **Infraestrutura e DevOps** | Servidores próprios com Docker Compose, nginx e Cloudflare, HTTPS com renovação automática, deploy controlado por GitHub Actions e atualizações agendadas |
-| **Continuidade e segurança** | Backups automáticos para a nuvem com teste mensal de restauração, acesso restrito pela Cloudflare e projeção de disco e de certificados antes de virarem problema |
-| **Monitoramento e observabilidade** | Coleta com Zabbix e painéis em Grafana, com alertas no WhatsApp por automações em n8n, para acompanhar a operação em tempo real |
+| **Systems integration** | Two-way sync between ERPs and field platforms, with identity matching across records, an error queue and a transaction history |
+| **Data engineering** | Data warehouse on a medallion architecture (bronze, silver, gold), with orchestration, validation and reprocessing, pulling together dozens of heterogeneous sources |
+| **Telemetry and IoT** | Gateways that receive TCP/UDP packets from trackers and scales, store the raw data and distribute it to integrations |
+| **Automation and reporting** | Automatic generation of operational PDF reports from weighing data, telemetry and photos |
+| **Agronomy applied to data** | Pest development modeling, phytosanitary monitoring with geospatial data, and decision support for crop management |
+| **Computer vision and web** | License plate recognition (LPR) integrated with cameras and access controllers, and web ordering platforms with an admin area |
+| **AI in the workflow** | Skills and routines for coding agents, and a personal knowledge base organized by AI |
+| **Agricultural ERP** | Design and development of an ERP for farm operations: crop seasons, inputs, field activity logging, costs and finance, with group-based permissions, an audit trail and soft deletes |
+| **APIs and backend** | Asynchronous APIs with JWT authentication, schema-based input/output validation, access control by module and action, and Redis-backed caching and rate limiting |
+| **Infrastructure and DevOps** | Self-managed servers with Docker Compose, nginx and Cloudflare, HTTPS with automatic renewal, deploys controlled by GitHub Actions and scheduled updates |
+| **Continuity and security** | Automatic cloud backups with a monthly restore test, access restricted through Cloudflare, and disk and certificate forecasting before they become a problem |
+| **Monitoring and observability** | Metrics collection with Zabbix and Grafana dashboards, with WhatsApp alerts via n8n automations, to track operations in real time |
 
-> A maior parte desse trabalho é feita para empresas e por isso fica em repositórios privados. Abaixo está o projeto que posso mostrar.
+> Most of this work is done for companies, so it lives in private repositories. Below is the project I can show.
 
 ## Stack
 
-**Linguagens**<br>
+**Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Backend e APIs**<br>
+**Backend & APIs**<br>
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
 ![Django Ninja](https://img.shields.io/badge/Django%20Ninja-092E20?style=flat-square&logo=django&logoColor=white)
@@ -64,7 +64,7 @@ Meu dia a dia é gerir sistemas agrícolas e construir as pontes entre eles: int
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
-**Dados e bancos**<br>
+**Data & databases**<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -78,7 +78,7 @@ Meu dia a dia é gerir sistemas agrícolas e construir as pontes entre eles: int
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Infraestrutura e qualidade**<br>
+**Infrastructure & quality**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -87,49 +87,49 @@ Meu dia a dia é gerir sistemas agrícolas e construir as pontes entre eles: int
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-**BI, automação e integração**<br>
+**BI, automation & integration**<br>
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
 
-**Monitoramento**<br>
+**Monitoring**<br>
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-**Sistemas agrícolas**<br>
+**Agricultural systems**<br>
 TOTVS Agro Multicultivos · TOTVS Meu Fitossanitário · TOTVS SmartView<br>
 Syngenta Cropwise Protector · Syngenta Cropwise Operations
 
-## Projeto em destaque
+## Featured project
 
-### 🍊 [Modelo de Graus-Dia para *Brevipalpus yothersi*](https://github.com/pedroaaguarnieri/spb-leprose-citros)
+### 🍊 [Degree-day model for *Brevipalpus yothersi*](https://github.com/pedroaaguarnieri/spb-leprose-citros)
 
-Sistema preditivo de código aberto que apoia a decisão de manejo do ácaro vetor da leprose dos citros, posicionando as pulverizações pelo tempo fisiológico da praga em vez de um calendário fixo. Meu Trabalho de Conclusão de Curso em Engenharia Agronômica.
+Open-source predictive system that supports management decisions for the mite that transmits citrus leprosis, timing sprays by the pest's physiological time instead of a fixed calendar. My undergraduate thesis in Agricultural Engineering.
 
-`Python` &nbsp; `Agronomia` &nbsp; `Modelagem` &nbsp; [ver repositório →](https://github.com/pedroaaguarnieri/spb-leprose-citros)
+`Python` &nbsp; `Agronomy` &nbsp; `Modeling` &nbsp; [view repository →](https://github.com/pedroaaguarnieri/spb-leprose-citros)
 
-## Formação
+## Education
 
-| Curso | Situação |
+| Program | Status |
 |---|---|
-| Técnico em Agropecuária | Concluído |
-| Engenharia Agronômica | Cursando |
-| Engenharia de Software | Cursando |
+| Technical degree in Agriculture | Completed |
+| Agricultural Engineering | In progress |
+| Software Engineering | In progress |
 
-## Atividade
+## Activity
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroaaguarnieri/pedroaaguarnieri/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroaaguarnieri/pedroaaguarnieri/output/github-contribution-grid-snake.svg">
-    <img alt="Gráfico de contribuições no GitHub animado como um jogo da cobrinha" src="https://raw.githubusercontent.com/pedroaaguarnieri/pedroaaguarnieri/output/github-contribution-grid-snake.svg">
+    <img alt="Animated GitHub contribution graph, as a snake game" src="https://raw.githubusercontent.com/pedroaaguarnieri/pedroaaguarnieri/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 ---
 
 <p align="center">
-  Vamos conversar sobre tecnologia no campo?<br>
+  Let's talk about technology in agriculture?<br>
   <a href="https://www.linkedin.com/in/pedro-augusto-de-andrade-guarni%C3%A9ri-414b81158/">LinkedIn</a>
 </p>
